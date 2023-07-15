@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Berryjin6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS,JavaScript,DataBase,PHP...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+depoly:    http://berryuniverse.infinityfreeapp.com/logout/login.php
+（管理員 ID:berry password:berry01）
+（テスト ID:test1 password:111)
 
-<!---
-Berryjin6/Berryjin6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Qiita:     https://qiita.com/Berryjin6/private/7a601e0f2f72a6c78208
